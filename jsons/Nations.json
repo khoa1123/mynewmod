@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Empire of Tyrica",
+		"leaderName": "Romulus II",
+		"adjective": ["Tyrica"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We are Tyrica, heir to empire and master of the civilized world",
+		"startIntroPart2": "Kneel before order, and you may yet prosper beneath our banners.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Your resistance has exhausted our patience. Tyrica marches",
+		"attacked": "You mistake our restraint for weakness. A fatal error.",
+		"defeated": "Empires die slowly… and Tyrica shall haunt history long after you fade",
+		"introduction": "Another realm rises before Tyrica. State your worth",
 		
 		"neutralHello": "How are you doing?",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,10 +24,10 @@
 		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		//"afterPeace": "Enough blood has been spent. Let reason prevail where swords failed.",
+		"tradeRequest": "Open your markets to Tyrica, and both our coffers shall swell",
+		"denounced": "Dogs bark loudest before the legion arrives",
+		"declaringfriendship": "Open your markets to Tyrica, and both our coffers shall swell",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
