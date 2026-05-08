@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Imperial Corp",
+		"unitType": "Sword",
+		"uniqueTo": "Empire of Tyrica",
+		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"strength": 19,
+		"cost": 80,
+		"requiredTech": "Iron Working",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	    "upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "metalhit"
 	}
 ]
