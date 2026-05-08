@@ -1,40 +1,35 @@
 [
 	{
-		"name": "Empire of Tyrica",
+		//nations
+		"name": "Tyrica",
 		"leaderName": "Romulus II",
-		"adjective": ["Tyrica"],
-		"startBias": ["Grassland"],
+		"adjective": ["Tyrican"],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
-		
+		"personality": "Romulus II",
+
 		"startIntroPart1": "We are Tyrica, heir to empire and master of the civilized world",
 		"startIntroPart2": "Kneel before order, and you may yet prosper beneath our banners.",
-		
-		"declaringWar": "Your resistance has exhausted our patience. Tyrica marches",
-		"attacked": "You mistake our restraint for weakness. A fatal error.",
-		"defeated": "Empires die slowly… and Tyrica shall haunt history long after you fade",
-		"introduction": "Another realm rises before Tyrica. State your worth",
-		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"declaringWar": "Your resistance has exhausted our patience",
+		"attacked": "You dare raise steel against Tyrica? Then prepare for annihilation.",
+		"defeated": "Empires die slowly… and Tyrica shall haunt history long after you fade.",
+		"introduction": "Another realm rises before Tyrica. State your worth.",
 		
-		//"afterPeace": "Enough blood has been spent. Let reason prevail where swords failed.",
-		"tradeRequest": "Open your markets to Tyrica, and both our coffers shall swell",
-		"denounced": "Dogs bark loudest before the legion arrives",
-		"declaringfriendship": "Open your markets to Tyrica, and both our coffers shall swell",
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+
+		"outerColor": [27,53,63],
+		"innerColor": [213,249,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Ingenuity",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
+		"cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			"Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			"Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",
+			"Uqair","Gubba","Hafriyat","Nagar","Shubat Enlil","Urhai","Urkesh","Awan","Riblah","Tayma"],
+        "spyNames": ["Rim-Sin II", "Smerdis", "Ilum-ma-ili", "Peshgaldaramesh", "Ur-zigurumaš", "Semiramis", "Em", "Ishtar", "Bilit Taauth", "Aruru"]
+	},
 ]
